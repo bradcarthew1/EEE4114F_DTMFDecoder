@@ -8,4 +8,7 @@ Finally, the purpose of a DTMF decoder and thus the main goal of this project wa
 This project was chosen as a way for us to further our understanding of filter design in the field of digital signals processing. Furthermore, this project exposes us to the various other real-world applications for filter design, outside what we have already done for the labs throughout the course.
 
 
+We looked at a range of popular software tools used in the digital signals processing field and concluded that MATLAB would be best suited for the implementation of our project. The version of MATLAB used was 9.10.0,1577079. 
+
+
 Authors: Bradley Carthew, Joshua Wuth
