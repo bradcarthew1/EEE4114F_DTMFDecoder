@@ -1,3 +1,10 @@
+%University: University of Cape Town
+%Authors: Bradley Carthew, Joshua Wuth
+%Course Code: EEE4114F
+
+%See this reference below for the code we borrowed for our implementation:
+%https://www.theengineeringprojects.com/2016/05/dtmf-decoder-using-matlab.html
+
 %Reading in an audio clip
 [y, Fs] = audioread('dtmfL1.wav');
 %sound(y,Fs);
